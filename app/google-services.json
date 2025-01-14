@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831787438035",
+    "project_id": "ucmc-c46bf",
+    "storage_bucket": "ucmc-c46bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831787438035:android:b631d9d866b6a4a372a926",
+        "android_client_info": {
+          "package_name": "chat.ucmeet.ucmc_184"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy1ixk2KJ-hS8iav95cKTgFOglo9pPAQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
